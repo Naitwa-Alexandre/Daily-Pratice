@@ -23,7 +23,7 @@ const isAscident = (arr) => {
 
 console.log(isAscident([1, 2, 3, 4 ,5, 6]));
 console.log(isAscident([1, 2, 3, 2 ,5, 6]));
-console.log(isAscident([1, 2, 3, 4 ,5, 6, 7, 8, 9, 10]));
+console.log(isAscident([1, 2, 3, 4 ,5, 6, 7, 8, 11, 10]));
 
 const largerEven = (arr) => {
 
