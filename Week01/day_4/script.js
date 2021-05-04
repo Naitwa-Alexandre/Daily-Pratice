@@ -33,4 +33,5 @@ console.log(getHexRandomColor());
 
 const isBigger = (arr, param) => arr.every((a) => a > param);
 
-console.log(isBigger([10, 20, 30, 4, 5], 4))
+console.log(isBigger([10, 20, 30, 4, 5], 3))
+
